@@ -8,6 +8,13 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+button:focus{
+    outline:none;
+}
+
+input:focus{
+    outline:none;
+}
 
 /*
 ====================================================================================
